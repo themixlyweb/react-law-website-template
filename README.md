@@ -133,23 +133,17 @@ You may use this version for personal and educational purposes.</p>
 <ul>
   <li>⭐ Star this repo if you find it useful</li>
   <li>Share with your legal or developer network</li>
-  <li>👉 Buy the Full Template on <a href="https://themixly.com/themes/law-firm-attorney-react-template/" target="_blank">Themixly</a></li>
+  <li>👉 Buy the Full Template on <a href="https://themixly.com/" target="_blank">Themixly</a></li>
 </ul>
 
 <h2>🧾 Contact Us</h2>
 <p>
   Need support or custom development?<br/>
   📩 <a href="https://themixly.com/contact-us/" target="_blank">Contact Themixly Team</a><br/>
-  🔗 Follow us:
-  <a href="https://www.facebook.com/profile.php?id=61576748155161" target="_blank">Facebook</a> |
-  <a href="https://www.instagram.com/themixly/" target="_blank">Instagram</a> |
-  <a href="https://www.linkedin.com/showcase/themixly" target="_blank">LinkedIn</a> |
-  <a href="https://www.pinterest.com/Themixly" target="_blank">Pinterest</a> |
-  <a href="https://www.youtube.com/@Thmixly" target="_blank">YouTube</a>
 </p>
 
 <footer>
-  © 2025 <a href="https://themixly.com/" target="_blank">Themixly</a>. All rights reserved. | Built with ❤️ for developers & designers.
+  © 2025 Themixly. All rights reserved. | Built with ❤️ for developers & designers.
 </footer>
 
 </body>
